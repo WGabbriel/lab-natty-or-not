@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa: Natural ou Fake Natty
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A inteligência artificial (IA) generativa está rapidamente se tornando uma ferramenta poderosa para a criação de conteúdo digital. Essa tecnologia, que usa algoritmos de aprendizado de máquina para gerar novos conteúdos como texto, imagens e vídeos, está revolucionando a maneira como criamos e consumimos conteúdo online.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+<ul>
+    <li><strong>IA Generativa Gemini:</strong> Uma ferramenta poderosa para a criação de prompts detalhados e criativos, servindo como base para a geração de conteúdo.</li>
+    <li><strong>IA Generativa BRIA:</strong> Uma especialista na geração de imagens realistas e com alta qualidade, dando vida aos meus prompts.</li>
+</ul>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+<ol>
+    <li><strong>Criação de prompts com a Gemini:</strong> Através da Gemini, elaborei prompts detalhados e criativos, descrevendo diferentes tipos de physiques, cenários de treino e competições.</li><br>
+    <li><strong>Geração de imagens com a BRIA:</strong> Utilizando os prompts da Gemini como base, a BRIA gerou imagens impressionantes de fisiculturistas, capturando detalhes anatômicos, texturas e iluminação com realismo impressionante.</li><br>
+    <li><strong>Refinamento e seleção:</strong> Analisei as imagens geradas, selecionando as que melhor representavam a naturalidade e o realismo buscados.</li><br>
+</ol>
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados da minha exploração foram surpreendentes. As imagens geradas pela BRIA, a partir dos prompts da Gemini, exibem um nível de realismo que, em alguns casos, se torna indistinguível do trabalho de um fotógrafo profissional. A textura da pele, a definição muscular, a iluminação e o cenário das imagens transmitem uma sensação de autenticidade e naturalidade que me deixaram intrigado.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+No entanto, ainda há um caminho a ser percorrido para alcançar o "natty" perfeito na IA. Em alguns casos, é possível identificar sutis discrepâncias, como pequenas falhas na anatomia ou na iluminação. Além disso, a IA ainda enfrenta o desafio de capturar a essência humana, a alma por trás da imagem, algo que muitas vezes diferencia um trabalho "natural" de um "fake natty".
